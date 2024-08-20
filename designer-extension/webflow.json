@@ -1,4 +1,5 @@
 {
-  "name": "devflow-party-ext",
-  "publicDir": "dist"
+  "name": "codeandwander-shortcuts",
+  "publicDir": "dist",
+  "size": "large"
 }
